@@ -39,11 +39,8 @@
 
 ## 資格
 - AWS 認定：
-  - Cloud Practitioner ： 2023年05月取得
+  - Cloud Practitioner
 - Azure 認定：
-  - AZ-900 Fundamentals ： 2023年09月取得
-  - AZ-104 Azure Administrator ： 2023年10月受験に向けて　勉強中  
-- IPA（情報処理推進機構） :
-  - 基本情報技術者 ： 2023年12月受験に向けて　勉強中
+  - AZ-900 Fundamentals
 
 </details>
